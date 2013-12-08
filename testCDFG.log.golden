@@ -1,0 +1,4 @@
+TestFail : (testCDFG.cc : 12)
+Golden: (VAR aa int)
+Output: (VAR a int)
+Message: Test VarNode print lisp mode

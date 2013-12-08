@@ -1,0 +1,13 @@
+[VAR]
+x int
+[VAR]
+y int
+[VAR]
+z int
+[OP]
++
+[OP]
++
+x
+y
+z

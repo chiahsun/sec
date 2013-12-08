@@ -1,0 +1,4 @@
+TestFail : (testUnitTest.cc : 5)
+Golden: 1
+Output: 0
+Message: This should print this message since true != false
